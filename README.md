@@ -162,39 +162,9 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
 
 ---
 
-### 🎖️ Holopin Badges:
-<details>
- <summary><b>Click to view badges</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://holopin.io/@vivekd16">
-    <img src="https://holopin.me/vivekd16" />
-  </a>
-</div>
-</details>
-
----
-
-### 🪶 GSSOC(24) Badges:
-<details>
- <summary><b>Click to view badges</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<!--   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=vivekd16"> -->
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-  </a>
-</div>
-</details>
-
----
-
 ### 🌟 Let's Connect!
 <div>
-  <a href="https://x.com/vivekd16" target="_blank">
+  <a href="https://x.com/VivekD88572" target="_blank">
     <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=black" target="_blank">
   </a>
 </div>
@@ -206,7 +176,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
 </div>
 
 <div>
-  <a href="https://www.linkedin.com/in/vivekd16" target="_blank">
+  <a href="www.linkedin.com/in/vivekdeshmukh1604" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
@@ -216,12 +186,6 @@ Feel free to explore my repositories and contributions, and let's build somethin
 
 ---
 
-### 💖 Support My Work:
-If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊  
-[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/vivekd16)  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/vivekd16)
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
