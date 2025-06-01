@@ -1,0 +1,46 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  push:
+    branches:
+      - main
+    # Optional: Trigger only when specific files change to avoid unnecessary runs
+    # paths:
+    #   - 'src/**'
+    #   - 'config/**'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          # Ensures the full history is fetched, which is required for some commit actions
+          fetch-depth: 0
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'GitHub Action'
+          author_email: 'action@github.com'
+          message: '✨ Update snake animation'
+          # Specify the paths to add to the commit to avoid unintended changes
+          add: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+            dist/ocean.gif
+          # Optionally, set `push: true` to push changes back to the repository
+          push: true
