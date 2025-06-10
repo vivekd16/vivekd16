@@ -69,6 +69,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekd16&theme=synthwave-84&true&hide_border=true" />
 </div>
 
+   
 ---
 ### ⌨️ LeetCode Stats:
 <details>
